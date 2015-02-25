@@ -1,3 +1,10 @@
+---
+layout: default
+title: "K12MATH012: Precalculus I"
+course_description: "This course focuses on the function. In addition to defining and exploring certain attributes of functions, the course address specific kinds of functions – linear, polynomial, rational, logarithmic, and exponential."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Polynomial and Rational Functions** <span id="3"></span> 
 *Unit 2 planted seeds of ideas that are extended in Unit 3 to more
 complex functions. A linear function is a simple, special case of a

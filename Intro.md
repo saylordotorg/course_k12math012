@@ -1,3 +1,10 @@
+---
+layout: default
+title: "K12MATH012: Precalculus I"
+course_description: "This course focuses on the function. In addition to defining and exploring certain attributes of functions, the course address specific kinds of functions – linear, polynomial, rational, logarithmic, and exponential."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "K12MATH012: Precalculus I"
 -----------------------------------------------
 

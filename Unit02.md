@@ -1,3 +1,10 @@
+---
+layout: default
+title: "K12MATH012: Precalculus I"
+course_description: "This course focuses on the function. In addition to defining and exploring certain attributes of functions, the course address specific kinds of functions – linear, polynomial, rational, logarithmic, and exponential."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Linear Functions** <span id="2"></span> 
 *Math students often ask, “How can I use this? What’s it for?” The
 answer is “modeling.” Mathematics is designed to help model real-world

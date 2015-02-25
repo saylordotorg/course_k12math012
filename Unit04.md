@@ -1,3 +1,10 @@
+---
+layout: default
+title: "K12MATH012: Precalculus I"
+course_description: "This course focuses on the function. In addition to defining and exploring certain attributes of functions, the course address specific kinds of functions – linear, polynomial, rational, logarithmic, and exponential."
+next: ../../../
+previous: ../Unit03
+---
 **Unit 4: Exponential and Logarithmic Functions** <span id="4"></span> 
 *Our final unit concludes the course with the exploration of exponential
 and logarithmic functions. These two functions are studied together
