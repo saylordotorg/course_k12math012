@@ -195,3 +195,9 @@ standardized tests.
  [**HRW Graphing
 Calculator**](http://my.hrw.com/math06_07/nsmedia/tools/Graph_Calculator/graphCalc.html)  
 
+**Table of Contents:** You can find the course's units at the links below.
+
+- [Unit 1](https://legacy.saylor.org/k12math012/Unit01/)
+- [Unit 2](https://legacy.saylor.org/k12math012/Unit02/)
+- [Unit 3](https://legacy.saylor.org/k12math012/Unit03/)
+- [Unit 4](https://legacy.saylor.org/k12math012/Unit04/)
