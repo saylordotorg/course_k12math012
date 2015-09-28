@@ -204,3 +204,4 @@ Calculator**](http://my.hrw.com/math06_07/nsmedia/tools/Graph_Calculator/graphCa
 - [Unit 2](https://legacy.saylor.org/k12math012/Unit02/)
 - [Unit 3](https://legacy.saylor.org/k12math012/Unit03/)
 - [Unit 4](https://legacy.saylor.org/k12math012/Unit04/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/K12/K12MATH012/K12MATH012-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/K12/K12MATH012/K12MATH012-FinalExam-Answers.html)
