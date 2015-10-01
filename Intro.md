@@ -8,6 +8,16 @@ previous: ../../../
 Course Syllabus for "K12MATH012: Precalculus I"
 -----------------------------------------------
 
+**Please note: this [legacy course](https://sayloracademy.zendesk.com/
+hc/en-us/articles/206089967) does not offer a certificate and may contain 
+broken links and outdated information.** Although archived, it is open 
+for learning without registration or enrollment. Please consider contributing 
+updates to [this course on GitHub](https://github.com/saylordotorg/course_k12math012) 
+(you can also adopt, adapt, and distribute this course under the terms of 
+the [Creative Commons Attribution 3.0 license](http://creativecommons.org/
+licenses/by/3.0/)). **To find fully-supported, current courses, [visit our 
+Learn site](https://learn.saylor.org).**
+
 Mathematics comes together in this course. You enter precalculus with an
 abundant array of experience in mathematics, and this course offers an
 opportunity to make connections among the big ideas you encountered
@@ -201,3 +211,4 @@ Calculator**](http://my.hrw.com/math06_07/nsmedia/tools/Graph_Calculator/graphCa
 - [Unit 2](https://legacy.saylor.org/k12math012/Unit02/)
 - [Unit 3](https://legacy.saylor.org/k12math012/Unit03/)
 - [Unit 4](https://legacy.saylor.org/k12math012/Unit04/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/K12/K12MATH012/K12MATH012-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/K12/K12MATH012/K12MATH012-FinalExam-Answers.html)
